@@ -1,4 +1,5 @@
 #  Mean and variance of a discrete  distribution
+# Name: Vishal s
 
 
 # Aim : 
@@ -50,8 +51,22 @@ It shows the distance of a random variable from its mean. It is calcualted as
 # Program :
 
 
+![Screenshot 2024-11-12 184504](https://github.com/user-attachments/assets/4cacfcb9-2369-4736-a383-e03e52dece1c)
+
+
+
 
 # Output : 
+
+1 2 3 4 5
+
+The Mean arrivial rate is 11.000
+
+The Variance of arrival from feeder is -110.000
+
+The Standard devidation of arrival from feeder is NAN
+
+:19: RuntimeWarning: invalid value encountered in sqrt SD=np.sqrt(var)
 
 # Results :
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
